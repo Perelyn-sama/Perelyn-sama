@@ -1,9 +1,9 @@
 <div align="center">
   <h1>Hi there 👋🏾</h1>
 
-  <p>I'm a Backend Blockchain Engineer who works on Ethereum and any chain that run an EVM </p>
+  <p>I'm a Backend Blockchain Engineer who works on Ethereum and any chain that runs an EVM </p>
 
-  <p>🔭 I’m currently working on anything that interests me, improves my skills and makes me money 😄</p>
+  <p>🔭 I’m currently working on anything that interests me, improves my skills, and makes me money 😄</p>
 
   <p>👯 I’m looking to collaborate on making safe and secure smart contracts for users👯</p>
 
