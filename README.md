@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there 👋🏾</h1>
+  <h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>🏾</h1>
 
   <p>I'm a Backend Blockchain Engineer who works on Ethereum and any chain that runs an EVM </p>
 
