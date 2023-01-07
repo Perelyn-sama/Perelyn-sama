@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3px" height="35px"/></h1>
 
   <p>I'm a Backend Blockchain Developer who works on Ethereum and any chain that runs an EVM </p>
@@ -10,8 +10,9 @@
   <a href="mailto:okohebina@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
- </div>
- 
+ </div> -->
+ [![Perelyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=perelyn-sama&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
