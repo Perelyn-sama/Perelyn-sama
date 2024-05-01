@@ -11,8 +11,10 @@
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
  </div> -->
+ <!--
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=perelyn-sama&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
  [![Perelyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=perelyn-sama&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+ -->
 
 
 
