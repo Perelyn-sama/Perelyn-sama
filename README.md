@@ -1,8 +1,8 @@
 Hey, I'm a fun little guy who likes to do fun little things :)
 
-I work professionally as a smart contract engineer with experience cut across Ethereum, Cosmos and Solana. 
+I work professionally as a smart contract engineer with 4 years of experience cut across Ethereum, Cosmos and Solana. 
 
-When I'm not being subjected to capitalism, I spend my time contribution to open source projects or making mine.
+When I'm not being subjected to capitalism, I spend my time contributing to open source projects or making mine.
 
 Wanna say hi? text me on discord - perelyn.
 
